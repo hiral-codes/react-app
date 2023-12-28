@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49bc357e.css",
+    "main.js": "/static/js/main.f8dad2f6.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/android-chrome-512x512.png": "/static/media/android-chrome-512x512.9ad1851cb7d0f96f492b.png",
+    "index.html": "/index.html",
+    "main.49bc357e.css.map": "/static/css/main.49bc357e.css.map",
+    "main.f8dad2f6.js.map": "/static/js/main.f8dad2f6.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49bc357e.css",
+    "static/js/main.f8dad2f6.js"
+  ]
+}
